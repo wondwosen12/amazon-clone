@@ -1,0 +1,26 @@
+.scroll-to-top {
+    position: relative;
+    bottom: 0.5rem;
+    right: 00.5rem;
+    animation: fadeIn 700ms ease-in-out 1s both;
+    cursor: pointer;
+}
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  .back-top-container {
+    height: 20px;
+    text-align: center;
+    width: 1400px;
+    background-color: #37475a;
+    color: white;
+    margin-right: -7px;
+    padding: 15px 0;
+    margin-top: 10px;
+    }
+  

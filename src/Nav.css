@@ -1,0 +1,33 @@
+.nav__new {
+    width: 100%;
+    background-color: #232f3e;
+    position: relative;
+}
+.nav__new .nav_data{
+    display: block;
+    justify-content:space-evenly;
+}
+
+.nav__new .nav_data .left_data{
+    display: flex;
+    align-content: center;
+}
+
+.nav__new .nav_data .left_data p{
+    color: #fff;
+    font-weight: 500;
+    font-size: 15px;
+    padding: 10px;
+}
+.hamburger {
+    margin-top: 8px;
+    color: #fff;
+    margin-left: 20px;
+}
+.nav__all {
+    margin-left: -5px;
+}
+.navbar {
+    display: flex;
+}
+
